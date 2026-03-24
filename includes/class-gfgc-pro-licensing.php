@@ -133,7 +133,6 @@ class GFGC_Pro_Licensing {
                 'body'    => [
                     'license_key' => $value,
                     'site_url'    => get_site_url(),
-                    'product'     => 'gf-google-chat-pro',
                 ],
                 'timeout' => 15,
             ]
